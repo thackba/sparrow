@@ -1,0 +1,11 @@
+target
+*.log
+tmp
+.history
+dist
+*.iml
+*.bak
+.DS_Store
+.idea
+.cache
+*.db
